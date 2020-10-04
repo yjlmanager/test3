@@ -1,0 +1,32 @@
+{
+	"Android":{
+		"version":"1.0.10",
+		"check3.2.0":false,
+		"appurl":""
+	},
+	"iOS":{
+		"version":"1.0.10",
+		"check3.4.0":false,
+		"appurl":""
+	},
+	"Win":{
+		"version":"1.0.10",
+		"check3.2.0":false
+	},
+	"pay_url":"http://back.hlkj123.cn/module/pay/goods_enter.action?",
+	"agent_url":"http://back.hlkj123.cn/module/agency/home/AgencyHome_enter.action?",
+	"share_link":"http://back.hlkj123.cn/realm/rooll/realmRooll.action?&url_sign=/wx/shareRoom/shareRoomAccredit_enter.action",
+	"invite_link":"http://back.hlkj123.cn/realm/rooll/realmRooll.action?&url_sign=/wx/share/share_shareNewYearA.action",
+	"chatroom_link":"http://back.hlkj123.cn/chat/room/info_1",
+	"wx_appid":"wx374a1d6b65963da1",
+	"share_group_link":"http://back.hlkj123.cn/realm/rooll/realmRooll.action?&url_sign=/wx/circle_join/join_enter.action",
+	"share_qrcode":"http://back.hlkj123.cn/realm/rooll/realmRooll.action?url_sign=/api/qrcode/createQrcode.action",
+	"login_url":"http://wegame.hlkj123.cn:8080/",
+	"pack_url":"https://mysuper-1253519471.cos.ap-guangzhou.myqcloud.com/zy_pack",
+	"voice_upload_url":"http://hotupdate.game71.net/voice/1b3e12d80v4R8BlAKIBKW4eAheTRQ.php",
+	"voice_download_url":"http://hotupdate.game71.net/voice/",
+	"debug_print":false,
+	"net_version":164,
+	"app_version":"1.0.0",
+	"production":false
+}
